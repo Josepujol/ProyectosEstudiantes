@@ -1,7 +1,7 @@
 # FOOD DETECTOR
 
-La finalidad del proyecto es que al pinchar el tenedor en un alimento, se nos indique qué alimento es en función de su resistencia, mediante una aplicación en el móvil; el proyecto podría ser de utilidad para personas con discapacidad visual o con alergias a ciertos alimentos.
-Para realizar ampliaciones hemos añadido en la aplicación del móvil diseñada con App Inventor mejoras, como añadirle un audio de voz informando del alimento
+La finalidad del proyecto es que al pinchar el tenedor en un alimento, se nos indique qué alimento es en función de su resistencia, mediante una aplicación en el móvil. El proyecto podría ser de utilidad para personas con discapacidad visual o con alergias a ciertos alimentos.
+Para realizar ampliaciones hemos añadido en la aplicación del móvil diseñada con App Inventor mejoras, como añadirle un audio de voz y una imagen informando del alimento
 
 
 <img src="ImagenTenedor.png" width="400" align="center">
