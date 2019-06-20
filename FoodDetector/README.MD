@@ -1,6 +1,6 @@
 #FOOD DETECTOR
 
-Dispositivo para personas invidentes, que le advierta de la cercanía de un obstáculo a través de la frecuencia de sonido de un zumbador. De forma que mientras más cerca esté el objeto mayor sea la frecuencia de pitido
+
 
 <img src="imagenGafas3d.png" width="400" align="center">
 
