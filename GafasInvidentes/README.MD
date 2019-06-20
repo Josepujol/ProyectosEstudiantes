@@ -1,6 +1,8 @@
 # GAFAS PARA INVIDENTES
 Dispositivo para personas invidentes, que le advierta de la cercanía de un obstáculo a través de la frecuencia de sonido de un zumbador. De forma que mientras más cerca esté el objeto mayor sea la frecuencia de pitido
 
+<img src="imagenGafas3d.png" width="400" align="center">
+
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/MemoriaGafas.pdf)
 - [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/CartelGafas.pdf)
