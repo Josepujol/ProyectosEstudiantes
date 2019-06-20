@@ -3,6 +3,7 @@ Dispositivo para personas invidentes, que le advierta de la cercanía de un obst
 
 En el repositorio puedes encontrar:
 - Memoria del proyecto en PDF
+- Cartel para la Feria de la Ciencia
 - Código de Arduino
 - Archivo STL con el diseño 3d de las Gafas
 - Esquemas de conexión
