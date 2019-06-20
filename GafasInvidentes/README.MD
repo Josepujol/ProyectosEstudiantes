@@ -3,8 +3,9 @@ Dispositivo para personas invidentes, que le advierta de la cercanía de un obst
 
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/MemoriaGafas.pdf)
-- Cartel para la Feria de la Ciencia
-- Código de Arduino
-- Archivo STL con el diseño 3d de las Gafas
+- [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/CartelGafas.pdf)
+- [Código de Arduino](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Codigo_gafas.ino)
+- [Archivo STL con el diseño 3d de las Gafas](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Gafas.stl)
+- [Archivo STL con el diseño 3d de la tapa de las Gafas](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Tapa%20gafas.stl)
 - Esquemas de conexión
 
