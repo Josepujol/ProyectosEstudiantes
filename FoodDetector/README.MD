@@ -4,7 +4,7 @@ La finalidad del proyecto es que al pinchar el tenedor en un alimento, se nos in
 Para realizar ampliaciones hemos añadido en la aplicación del móvil diseñada con App Inventor mejoras, como añadirle un audio de voz informando del alimento
 
 
-<img src="imagenGafas3d.png" width="400" align="center">
+<img src="ImagenTenedor.png" width="400" align="center">
 
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/MemoriaFoodDetector.pdf)
