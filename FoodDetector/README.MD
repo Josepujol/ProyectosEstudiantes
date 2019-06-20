@@ -16,4 +16,4 @@ En el repositorio puedes encontrar:
 - [Esquema en formato fritzing](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/FoodDetector.fzz)
 
 ## LICENCIA
-Este proyecto fue desarrollado durante el curso 2018/2019 en el IES Vicente Aleixandre de Sevilla en 4º de la ESO de Tecnología por Candela Esparrica y Pablo Cuadrado, con el apoyo de su profesor Jose Pujol. Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+Este proyecto fue desarrollado durante el curso 2018/2019 en el IES Vicente Aleixandre de Sevilla en 4º de la ESO de Tecnología por Candela Esparrica y Pablo Cuadrado, con el apoyo de su profesor Jose Pujol. Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Se ha usado como fuente de inspiración el proyecto desarrollado en https://www.hackster.io/crispylel/food-detector-6178cc
