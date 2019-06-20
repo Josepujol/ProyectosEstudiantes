@@ -11,3 +11,7 @@ En el repositorio puedes encontrar:
 - [Archivo STL con el diseño 3d de la tapa de las Gafas](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Tapa%20gafas.stl)
 - Esquemas de conexión
 
+## LICENCIA
+Este proyecto fue desarrollado en el IES Vicente Aleixandre en 4º de la ESO de Tecnología por Adrian Morales y Blanca Lara, se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
