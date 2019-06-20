@@ -10,7 +10,7 @@ En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/MemoriaFoodDetector.pdf)
 - [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/CartelFoodDetector.pdf)
 - [Código de Arduino](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/FoodDetector.ino)
-- [Archivo STL con el diseño 3d del tenedor](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/Tenedor.stl)
+- [Diseño 3D del tenedor en STL](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/Tenedor.stl)
 - [Esquema electrónico de conexión](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/FoodDetector_esquema%CC%81tico.png)
 - [Esquema en protoboard](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/FoodDetector_bb.png)
 - [Esquema en formato fritzing](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/FoodDetector/FoodDetector.fzz)
