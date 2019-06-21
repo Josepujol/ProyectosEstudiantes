@@ -1,6 +1,8 @@
 # TRILERO
 La finalidad del sistema es enseñar qué es la magia a través de la tecnología y de la ciencia para ello hemos diseñado un juego muy común como es el trilero en el que un brazo robótico nos dice siempre donde está la bolita
-<img src="CartelTrilero.png.png" width="400" align="center">
+
+<img src="CartelTrilero.png" width="400" align="center">
+
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/Trilero/MEMORIATRILEROS.pdf)
 - [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/Trilero/CartelTrilero.pdf)
