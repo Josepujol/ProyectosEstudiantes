@@ -10,4 +10,5 @@ Proyectos desarrollados por estudiantes en clase de Tecnología en el IES Vicent
 
 
 ## Licencia
+Los proyectos han sido desarrollados en clase de Tecnología de Jose Pujol en el IES Vicente Aleixandre de Sevilla.
 Todos los proyectos se distribuyen bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
