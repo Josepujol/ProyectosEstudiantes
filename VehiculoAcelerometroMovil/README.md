@@ -5,7 +5,7 @@ Vehiculo impreso en 3D que se controla a partir de la inclinación del móvil co
 
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/MemoriaVehiculoAcelerometro.pdf)
-- [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/CartelVehiculoAcelerometro.pdf)
+- [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/CartelCoche.pdf)
 - [Código de Arduino](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/CodigoCoche.ino)
 - [App en formato nativo .aia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/AcelerometroCoch2.aia)
 - [App en formato ejecutable .apk](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/AcelerometroCoch2.apk)
