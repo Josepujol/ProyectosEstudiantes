@@ -5,7 +5,7 @@ Proyectos desarrollados por estudiantes en clase de Tecnología en el IES Vicent
 
 - [Gafas para invidentes](https://github.com/Josepujol/ProyectosEstudiantes/tree/master/GafasInvidentes)
 - [Food detector](https://github.com/Josepujol/ProyectosEstudiantes/tree/master/FoodDetector)
-- Vehículo controlado por acelerómetro del móvil
+- [Vehículo controlado por acelerómetro del móvil](https://github.com/Josepujol/ProyectosEstudiantes/tree/master/VehiculoAcelerometroMovil)
 - Trileros
 
 
