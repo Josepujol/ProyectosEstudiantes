@@ -1,0 +1,16 @@
+# VEHICULO CONTROLADO POR ACELERÓMETRO DEL MÓVIL
+Vehiculo impreso en 3D que se controla a partir de la inclinación del móvil con una aplicación desarrollada en App Inventor
+
+<img src="imagenGafas3d.png" width="400" align="center">
+
+En el repositorio puedes encontrar:
+- [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/MemoriaGafas.pdf)
+- [Cartel para la Feria de la Ciencia](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/CartelGafas.pdf)
+- [Código de Arduino](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Codigo_gafas.ino)
+- [Archivo STL con el diseño 3d de las Gafas](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Gafas.stl)
+- [Archivo STL con el diseño 3d de la tapa de las Gafas](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Tapa%20gafas.stl)
+- [Esquema electronico de conexión](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/EsquemaGafas.png)
+- [Esquema en protoboard](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/EsquemaGafasbb.png)
+
+## LICENCIA
+Este proyecto fue desarrollado durante el curso 2018/2019 en el IES Vicente Aleixandre de Sevilla en 4º de la ESO de Tecnología por Adrian Morales y Blanca Lara, con el apoyo de su profesor Jose Pujol. Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
