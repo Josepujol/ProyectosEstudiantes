@@ -1,7 +1,7 @@
 # VEHICULO CONTROLADO POR ACELERÓMETRO DEL MÓVIL
 Vehiculo impreso en 3D que se controla a partir de la inclinación del móvil con una aplicación desarrollada en App Inventor
 
-<img src="ImagenVehiculo.png" width="400" align="center">
+<img src="Cartel.png" width="600" align="center">
 
 En el repositorio puedes encontrar:
 - [Memoria del proyecto en PDF](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/VehiculoAcelerometroMovil/MemoriaVehiculoAcelerometro.pdf)
