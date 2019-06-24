@@ -15,5 +15,3 @@ En el repositorio puedes encontrar:
 
 ## LICENCIA
 Este proyecto fue desarrollado durante el curso 2018/2019 en el IES Vicente Aleixandre de Sevilla en 4º de la ESO de Tecnología por Adrian Morales y Blanca Lara, con el apoyo de su profesor Jose Pujol. Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-
-
